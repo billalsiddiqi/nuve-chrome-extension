@@ -1,5 +1,4 @@
-```md
-# 🚀 Nuve Chrome Extension  
+# 🚀 Nuve Chrome Extension
 
 A **modern Chrome extension** built using **React, Vite, and Tailwind CSS**, designed to enhance your browsing experience.  
 
@@ -10,6 +9,7 @@ A **modern Chrome extension** built using **React, Vite, and Tailwind CSS**, des
 ✅ Follows best practices with **ESLint & PostCSS**  
 
 ## 🛠️ Installation  
+
 
 1. **Clone the Repository**  
    ```bash
@@ -78,8 +78,4 @@ This project uses:
 This project is licensed under the **MIT License**.  
 
 💡 **Have ideas or suggestions?** Feel free to open an issue or contribute!  
-```
 
----
-
-Just **copy and paste** this into your `README.md` file. Let me know if you need any changes! 🚀
