@@ -1,48 +1,45 @@
-🚀 Nuve Chrome Extension
-A modern Chrome extension built using React, Vite, and Tailwind CSS, designed to enhance your browsing experience.
+```md
+# 🚀 Nuve Chrome Extension  
 
-📌 Features
-✅ Built with React for a dynamic UI
-✅ Fast and optimized using Vite
-✅ Styled with Tailwind CSS for a clean, modern look
-✅ Follows best practices with ESLint & PostCSS
+A **modern Chrome extension** built using **React, Vite, and Tailwind CSS**, designed to enhance your browsing experience.  
 
-🛠️ Installation
-Clone the Repository
+## 📌 Features  
+✅ Built with **React** for a dynamic UI  
+✅ Fast and optimized using **Vite**  
+✅ Styled with **Tailwind CSS** for a clean, modern look  
+✅ Follows best practices with **ESLint & PostCSS**  
 
-bash
-Copy
-Edit
-git clone https://github.com/billalsiddiqi/nuve-chrome-extension.git
-cd nuve-chrome-extension
-Install Dependencies
+## 🛠️ Installation  
 
-bash
-Copy
-Edit
-npm install
-Run the Development Server
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/billalsiddiqi/nuve-chrome-extension.git
+   cd nuve-chrome-extension
+   ```
 
-bash
-Copy
-Edit
-npm run dev
-Build the Extension
+2. **Install Dependencies**  
+   ```bash
+   npm install
+   ```
 
-bash
-Copy
-Edit
-npm run build
-Load the Extension in Chrome:
+3. **Run the Development Server**  
+   ```bash
+   npm run dev
+   ```
 
-Open chrome://extensions/
-Enable Developer Mode (top right corner)
-Click "Load unpacked"
-Select the dist folder from the build
-📂 Project Structure
-php
-Copy
-Edit
+4. **Build the Extension**  
+   ```bash
+   npm run build
+   ```  
+
+5. **Load the Extension in Chrome:**  
+   - Open `chrome://extensions/`  
+   - Enable **Developer Mode** (top right corner)  
+   - Click **"Load unpacked"**  
+   - Select the `dist` folder from the build  
+
+## 📂 Project Structure  
+```
 nuve-chrome-extension/
 │── public/           # Static assets  
 │── src/              # Main source code  
@@ -53,19 +50,36 @@ nuve-chrome-extension/
 │── vite.config.js    # Vite configuration  
 │── tailwind.config.js # Tailwind settings  
 └── README.md         # Project documentation  
-🛡️ Code Quality
-This project uses:
-🔹 ESLint for linting (eslint.config.js)
-🔹 PostCSS for optimized styling (postcss.config.js)
-🔹 Vite for lightning-fast builds
+```
 
-👨‍💻 Contributing
-Fork the repository
-Create a new branch: git checkout -b feature-branch
-Commit changes: git commit -m "Add new feature"
-Push the branch: git push origin feature-branch
-Open a pull request
-📄 License
-This project is licensed under the MIT License.
+## 🛡️ Code Quality  
+This project uses:  
+🔹 **ESLint** for linting (`eslint.config.js`)  
+🔹 **PostCSS** for optimized styling (`postcss.config.js`)  
+🔹 **Vite** for lightning-fast builds  
 
-💡 Have ideas or suggestions? Feel free to open an issue or contribute!
+## 👨‍💻 Contributing  
+1. Fork the repository  
+2. Create a new branch:  
+   ```bash
+   git checkout -b feature-branch
+   ```
+3. Commit changes:  
+   ```bash
+   git commit -m "Add new feature"
+   ```
+4. Push the branch:  
+   ```bash
+   git push origin feature-branch
+   ```
+5. Open a pull request  
+
+## 📄 License  
+This project is licensed under the **MIT License**.  
+
+💡 **Have ideas or suggestions?** Feel free to open an issue or contribute!  
+```
+
+---
+
+Just **copy and paste** this into your `README.md` file. Let me know if you need any changes! 🚀
